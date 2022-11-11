@@ -26,7 +26,7 @@ Year
 GDP
 LE
 
-* check the completeness of the data
-* check the format of the data
-* check for any invalid values
-* work out the GDP format
+* check the completeness of the data [data complete]
+* check the format of the data [format ok]
+* check for any invalid values [ok]
+* work out the GDP format [done]
