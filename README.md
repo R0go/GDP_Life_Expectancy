@@ -1,9 +1,7 @@
 # GDP_Life_Expectancy
-This project aims at analyzing the relationship between country's GDP and the life expectancy of its citizens.
+This project aims at analyzing the relationship between country's GDP and the life expectancy of its citizens based on the data provided. The project idea and the data were provided via CodeCademy's Data Science skill path.
 
-Project Goal and analysis
-The goals are to prepare data, followed by analysis with plots, and seek to explain the findings from the study.
-
+Project Goal
 Here are a few questions that this project will seek to answer:
 
 Has life expectancy increased over time in the six nations?
@@ -15,5 +13,3 @@ What is the distribution of that life expectancy?
 Data sources
 GDP Source: World Bank national accounts data, and OECD National Accounts data files.
 Life expectancy Data Source: World Health Organization
-
-
